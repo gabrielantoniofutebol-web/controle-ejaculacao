@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#007BFF"/>
+  
+  <!-- Trophy base -->
+  <path d="M256 380 L256 420 L220 420 L220 450 L292 450 L292 420 L256 420 Z" fill="#FFD700"/>
+  
+  <!-- Trophy cup -->
+  <path d="M180 140 L180 200 C180 240 210 270 256 270 C302 270 332 240 332 200 L332 140 Z" fill="#FFD700"/>
+  
+  <!-- Trophy handles -->
+  <path d="M160 140 L160 180 C160 200 170 210 180 210 L180 140 Z" fill="#FFD700"/>
+  <path d="M352 140 L352 180 C352 200 342 210 332 210 L332 140 Z" fill="#FFD700"/>
+  
+  <!-- 1% Text -->
+  <text x="256" y="320" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white" text-anchor="middle">1%</text>
+  
+  <!-- Shine effect -->
+  <circle cx="200" cy="180" r="20" fill="white" opacity="0.3"/>
+</svg>
